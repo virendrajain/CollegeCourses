@@ -38,7 +38,7 @@ namespace CollegeCourse
     {
         public int RootNumber { get; set; }
         public string MainCourse { get; set; }
-        public string PreRequisit { get; set; }
+        public string Prerequisites { get; set; }
         public int Level { get; set; }
     }
 }
